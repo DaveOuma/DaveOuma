@@ -1,8 +1,8 @@
-- 👋 Hello, I'm @DaveOuma
-- 👀 I'm interested in Software Engineering/Development
-- 🌱 I'm currently learning C, Web Technologies (HTML5 & CSS3), Python, Javascript, Database, and UI/UX Design.
-- 💞️ I want to collaborate on any C, Web Technologies, Python, Javascript, Database, and UI/UX Design project.
-- 📫 Reach me on davidomuga@gmail.com
+👋 Hi, I'm @DaveOuma
+👀 Passionate about Software Engineering/Development
+🌱 Currently mastering C, HTML5 & CSS3, Python, Javascript, Databases, and UI/UX Design.
+💞️ Open to collaboration on C, Web Technologies, Python, Javascript, Database, and UI/UX Design projects.
+📫 Contact me at davidomuga@gmail.com
 
 <!---
 DaveOuma/DaveOuma is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
