@@ -27,9 +27,10 @@ TL;DR
 - Clean, well-documented code with automated tests and CI/CD
 
 ## Featured projects
-- Umoja Educational Tuition Centre (UETC) — modern LMS built with Django. https://github.com/DaveOuma/UmojaEducationalTuitionCentre
+- Tours website using Django REST Framework. https://github.com/DaveOuma/Kesly-Tours
 - Django Payment Gateway — Pesapal integration and secure checkout. https://github.com/DaveOuma/umoja-payment-system
 - Portfolio / web projects — https://github.com/DaveOuma/dave
+- Umoja Educational Tuition Centre (UETC) — modern LMS built with Django. https://github.com/DaveOuma/UmojaEducationalTuitionCentre
 (Click the pinned repos on my profile for quick access.)
 
 ## Tech stack
