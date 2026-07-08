@@ -1,204 +1,68 @@
-# Hi there, I'm David Ouma
+# Hi — I’m David (Dave) Ouma 👋
 
 <div align="center">
-
-### Software Engineer • Senior Scientific Editor • Educationist
-
-*Building secure backend systems, digital payment solutions, and educational technologies with Python & Django.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DaveOuma&label=Profile%20Views&color=2563eb&style=for-the-badge)](https://github.com/DaveOuma)
 [![GitHub followers](https://img.shields.io/github/followers/DaveOuma?style=for-the-badge)](https://github.com/DaveOuma)
-[![GitHub Stars](https://img.shields.io/github/stars/DaveOuma?affiliations=OWNER&style=for-the-badge)](https://github.com/DaveOuma)
+[![Top Langs](https://img.shields.io/github/languages/top/DaveOuma?style=for-the-badge)](https://github.com/DaveOuma)
 
 </div>
 
----
+Short summary
+- Software Engineer | Senior Scientific Editor | Educationist
+- I build secure backend systems, payment solutions, and EdTech platforms using Python and Django.
 
-## About Me
+TL;DR
+- Backend, APIs, Payments (Pesapal), EdTech, Cloud deployments, and technical editing.
 
-I'm a **Software Engineer** passionate about building scalable, secure, and user-friendly web applications that solve real-world problems.
+## Highlights
+- Senior Scientific Editor at CACTUS Communications (2019–2025) — helped researchers prepare publishable manuscripts.
+- Built production-ready Django payment integrations (Pesapal).
+- Founder / lead developer on Umoja Educational Tuition Centre (UETC) — an LMS focused on accessibility and ease of use.
 
-My work focuses on:
+## What I build
+- Secure, maintainable Django backends and REST APIs
+- Payment gateway integrations, transaction verification and logging
+- Education platforms — student/teacher/admin flows and assessments
+- Clean, well-documented code with automated tests and CI/CD
 
-- 🔹 Backend Engineering with **Python** and **Django**
-- 🔹 REST API Development
-- 🔹 Payment Gateway Integration
-- 🔹 Educational Technology (EdTech)
-- 🔹 Financial Technology (FinTech)
-- 🔹 Cloud Deployment
-- 🔹 Scientific & Technical Editing
+## Featured projects
+- Umoja Educational Tuition Centre (UETC) — modern LMS built with Django. https://github.com/DaveOuma/UmojaEducationalTuitionCentre
+- Django Payment Gateway — Pesapal integration and secure checkout. https://github.com/DaveOuma/umoja-payment-system
+- Portfolio / web projects — https://github.com/DaveOuma/DavePortfolio
+(Click the pinned repos on my profile for quick access.)
 
-Alongside software engineering, I worked as a **Senior Scientific Editor** at **CACTUS Communications (2019–2025)**, helping researchers prepare high-quality scientific manuscripts for publication.
+## Tech stack
+Languages & frameworks
+- Python • Django • Django REST Framework
+- JavaScript • HTML • CSS
+Databases
+- PostgreSQL • MySQL • SQLite
+Tools & infra
+- Docker • Git • Linux • Vercel • VS Code
+Cloud / DevOps (learning & applied)
+- AWS • CI/CD • Kubernetes (learning)
 
-I enjoy combining technology, research, and education to create impactful digital solutions.
-
----
-
-# Current Focus
-
-- Building **Umoja Educational Tuition Centre (UETC)**
-- Developing secure online payment systems
-- Designing scalable Django applications
-- REST APIs
-- Cloud Deployment
-- Secure Authentication
-- Educational Technology
-
----
-
-# Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## Backend
-
-- Python
-- Django
-- Django REST Framework
-- REST APIs
-
----
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Tailwind CSS
-
----
-
-## Databases
-
-- PostgreSQL
-- MySQL
-- SQLite
-
----
-
-## DevOps & Tools
-
-- Git
-- GitHub
-- Vercel
-- Docker
-- Linux
-- VS Code
-
----
-
-# Featured Projects
-
-##  Umoja Educational Tuition Centre (UETC)
-
-A modern Learning Management System built using Django.
-
-### Features
-
-- Student Portal
-- Parent Portal
-- Teacher Dashboard
-- Online Learning
-- Assignment Submission
-- Examination Module
-- Online Payments
-- Administrative Dashboard
-
----
-
-## Django Payment Gateway
-
-Production-ready payment platform featuring:
-
-- Pesapal Integration
-- Payment Verification
-- Transaction Logging
-- Callback Handling
-- Secure Checkout
-- Receipt Generation
-
----
-
-## Education Systems
-
-Solutions designed to improve teaching, learning, and school administration.
-
----
-
-# GitHub Stats
-
+## GitHub stats
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaveOuma&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveOuma&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaveOuma&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveOuma&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
+## Currently learning
+- System design, Docker, Kubernetes, CI/CD, AWS, Microservices, AI
 
-# GitHub Streak
+## How I work
+- TDD where possible, modular and well-documented code
+- Emphasis on security (payments/auth), observability (logging/metrics), and developer experience
 
-<p align="center">
+## Get in touch
+- Email: david[at]ouma.dev (replace [at])
+- LinkedIn: https://www.linkedin.com/in/daveouma
+- Open to: full-time roles, contract work, EdTech/FinTech collaborations
 
-<img src="https://streak-stats.demolab.com?user=DaveOuma&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Professional Interests
-
-- Backend Engineering
-- FinTech
-- Educational Technology
-- Artificial Intelligence
-- Scientific Publishing
-- Cloud Computing
-- API Design
-- Software Architecture
-- Cybersecurity
+> "Great software is built with clean architecture, thoughtful design, and a commitment to solving real-world problems."
 
 ---
 
-# Currently Learning
-
-- System Design
-- Docker
-- Kubernetes
-- CI/CD
-- AWS
-- Microservices
-- Artificial Intelligence
-
----
-
-# 🤝Let's Connect
-
-- Open to Software Engineering opportunities
-- 🤝 Available for freelance and consulting projects
-- Interested in research and educational technology collaborations
-
----
-
-# 💡 Philosophy
-
-> *"Great software is built with clean architecture, thoughtful design, and a commitment to solving real-world problems."*
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile!
-
-⭐ If you find my work interesting, consider following my journey and exploring my repositories.
-
-</div>
+Thanks for visiting! ⭐ If you like my work, please follow and explore the repositories pinned on my profile.
