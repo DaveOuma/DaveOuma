@@ -29,7 +29,7 @@ TL;DR
 ## Featured projects
 - Umoja Educational Tuition Centre (UETC) — modern LMS built with Django. https://github.com/DaveOuma/UmojaEducationalTuitionCentre
 - Django Payment Gateway — Pesapal integration and secure checkout. https://github.com/DaveOuma/umoja-payment-system
-- Portfolio / web projects — https://github.com/DaveOuma/DavePortfolio
+- Portfolio / web projects — https://github.com/DaveOuma/dave
 (Click the pinned repos on my profile for quick access.)
 
 ## Tech stack
@@ -41,7 +41,7 @@ Databases
 Tools & infra
 - Docker • Git • Linux • Vercel • VS Code
 Cloud / DevOps (learning & applied)
-- AWS • CI/CD • Kubernetes (learning)
+- AWS • CI/CD • Kubernetes (learning & applied)
 
 ## GitHub stats
 <p align="center">
@@ -57,7 +57,7 @@ Cloud / DevOps (learning & applied)
 - Emphasis on security (payments/auth), observability (logging/metrics), and developer experience
 
 ## Get in touch
-- Email: david[at]ouma.dev (replace [at])
+- Email: davidomuga@gmail.com
 - LinkedIn: https://www.linkedin.com/in/daveouma
 - Open to: full-time roles, contract work, EdTech/FinTech collaborations
 
